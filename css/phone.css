@@ -29,6 +29,10 @@
 
 
 }
+.services .box:hover{
+    padding:45px; 
+    
+  }
 
 /* cliet section  */
 .clients{
